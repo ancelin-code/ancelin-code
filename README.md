@@ -1,6 +1,6 @@
 # Hello world, I'm Ancelin 👋
 
-Lead AI Engineer at Schneider Electric ⚡ I build AI systems that run in production, and I build them with AI agents.
+AI Engineer at Schneider Electric ⚡
 
 My day job is AI and data products for the energy sector (Python, Azure, Databricks). On the side, I build the tooling for the AI-native workflow I use every day: specs refined with agents, parallel lanes in git worktrees, an independent agent reviewing every change, tests and ADRs as the source of truth.
 
