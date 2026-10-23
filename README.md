@@ -14,7 +14,3 @@ Open to **remote** roles in AI engineering, developer productivity or AI-native 
 ## Stack
 
 Python · FastAPI · Databricks · MLflow · Azure · Terraform · OpenTelemetry · MCP · Agent Skills · Coding agents (Claude Code, Copilot CLI, Codex, OpenCode)
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/ancelinserre/) · github.ancelin.serre@proton.me
